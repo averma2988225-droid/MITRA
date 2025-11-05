@@ -1,4 +1,5 @@
-# MITRA
+# MITRA 
+( https://mitra.base44.app/) [ direct  LINK FOR THE WEBSITE ] 
 Project Overview
 MITRA is a comprehensive AI-powered mental health platform designed to detect depression in students up to 6 weeks early and provide 24/7 AI therapy chat support across generations. The platform offers affordable, stigma-free, and accessible mental wellness support targeting India’s urgent youth mental health needs.
 
